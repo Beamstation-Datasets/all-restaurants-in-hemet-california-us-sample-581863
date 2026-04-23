@@ -1,12 +1,12 @@
 {
-  "export_job_id": "22344e42-4816-4ac5-bacf-a94556822cde",
+  "export_job_id": "d9bd8f48-487c-48b0-84fb-f8bb7438fe1b",
   "id_short": 581863,
-  "published_at": "2026-04-19T19:08:52Z",
+  "published_at": "2026-04-23T19:22:51Z",
   "repo_name": "all-restaurants-in-hemet-california-us-sample-581863",
   "sample_asset_name": "beamstation_581863_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/581863/beamstation_581863_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_records": 12,
-  "sample_sha256": "fb40b444bc66a45fe90c842fe271dd26409cab011b0a53b90f92d228855b4e76",
-  "sample_size_bytes": 60379,
-  "total_records": 127
+  "sample_records": 10,
+  "sample_sha256": "41723f647871bc71091365f2316bb83e25da9f0d96d3ee803d12469ca44a7fab",
+  "sample_size_bytes": 54409,
+  "total_records": 102
 }
